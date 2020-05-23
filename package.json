@@ -1,0 +1,26 @@
+{
+  "name": "ts-handsOn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev --respawn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kou1127h/tsTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kou1127h/tsTutorial/issues"
+  },
+  "homepage": "https://github.com/kou1127h/tsTutorial#readme",
+  "devDependencies": {
+    "ts-node": "^8.10.1",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.9.3"
+  }
+}
